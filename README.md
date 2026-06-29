@@ -7,7 +7,7 @@ Your mission is simple: guess the secret number between **1 and 100** before run
 
 ---
 
-## ✨ Features
+## ✨ Guess Or Suffer's Features
 
 * 🎲 Randomly generated number between 1 and 100
 * ❤️ Seven attempts per level
@@ -82,7 +82,14 @@ Every character has multiple facial expressions and a unique set of dialogues th
 
 ## 📷 Screenshots
 
-*Screenshots and gameplay GIFs will be added soon.*
+<img width="568" height="312" alt="image" src="https://github.com/user-attachments/assets/2801fbf6-4d72-49ae-91df-5714f1506c0c" />
+<img width="568"  alt="Screenshot 2026-06-29 165145" src="https://github.com/user-attachments/assets/99f701d1-ca3e-44a6-8ccf-fb82a1a1df11" />
+<img width="568"  alt="Screenshot 2026-06-29 165329" src="https://github.com/user-attachments/assets/fc117141-1f58-41e0-b38b-7daa125ffea5" />
+<img width="568" alt="Screenshot 2026-06-29 165643" src="https://github.com/user-attachments/assets/95b04627-a339-4832-88a3-4c2fb0b51a86" />
+
+
+
+
 
 ---
 
