@@ -97,7 +97,6 @@ Every character has multiple facial expressions and a unique set of dialogues th
 
 Developed by **VA-KASSA Clara Merveille** while learning Python and game development with Pygame.
 
-This project reflects one step in my programming journey, and I look forward to building more ambitious applications in the future.
- Il a été finalisé le 29 mais 2026
+This project reflects one step in my programming journey, and I look forward to building more ambitious applications in the future. The project was officially achieved on May 29th 2026
 
 © 2026 VA-KASSA Clara Merveille. Tous droits réservés. Aucune reproduction ou distribution n'est autorisée sans permission.
