@@ -1,4 +1,96 @@
 
-Guess or Suffer est un jeu de réflexion rétro en Python (Pygame). Le concept ? Devine le nombre secret en un minimum de tentatives, tout en subissant les répliques piquantes et le jugement sans filtre de tes proches et de tes profs à chaque erreur. Arriveras-pu au niveau 4 sans craquer ? Il a été finalisé le 29 mais 2026
+# 🎮 Guess or Suffer
+
+A small game developed with **Python** and **Pygame** where every wrong guess makes the experience a little more... uncomfortable.
+
+Your mission is simple: guess the secret number between **1 and 100** before running out of attempts. As you make mistakes, different characters react with changing facial expressions and increasingly sarcastic dialogue, turning a classic guessing game into a humorous psychological challenge.
+
+---
+
+## ✨ Features
+
+* 🎲 Randomly generated number between 1 and 100
+* ❤️ Seven attempts per level
+* 👥 Four unique characters
+* 🎭 Character expressions evolve as the player loses attempts
+* 💬 Dynamic dialogue that changes after each mistake
+* 📈 Four playable stages
+* 🎵 Background music
+* 🖼️ Custom user interface and artwork
+* 📋 Automatic narrowing of the remaining possible numbers after each incorrect guess
+* 🏆 Victory, defeat and final completion screens
+* ⚙️ Built-in settings menu
+
+---
+
+## 🕹️ Controls
+
+| Key                    | Action                               |
+| ---------------------- | ------------------------------------ |
+| Left Mouse Click       | Start the game                       |
+| Enter                  | Submit a guess                       |
+| Enter (Victory Screen) | Continue to the next level           |
+| Space                  | Restart after losing                 |
+| Q                      | Quit the game from the settings menu |
+
+---
+
+## 🛠️ Technologies
+
+* Python
+* Pygame
+
+---
+
+## 📚 What I Practiced
+
+During this project, I worked with:
+
+* Variables
+* Lists
+* Tuples
+* Loops
+* Conditional statements
+* Random number generation
+* Event handling
+* Keyboard and mouse input
+* Game state management
+* Asset management (images, fonts and audio)
+* Basic user interface design
+
+---
+
+## 💡 About the Project
+
+This game was originally created as a school project. Rather than making a traditional "Guess the Number" game, I wanted to make each mistake feel meaningful by giving the player visual and textual feedback.
+
+Every character has multiple facial expressions and a unique set of dialogues that evolve throughout the game, creating the feeling that the characters are reacting to the player's performance.
+
+---
+
+## 🚀 Possible Future Improvements
+
+* Difficulty modes
+* Better code organization into multiple files
+* Additional characters
+* More dialogue variations
+* Animations and visual effects
+* Save system
+* Scoreboard
+
+---
+
+## 📷 Screenshots
+
+*Screenshots and gameplay GIFs will be added soon.*
+
+---
+
+## 👩‍💻 Author
+
+Developed by **VA-KASSA Clara Merveille** while learning Python and game development with Pygame.
+
+This project reflects one step in my programming journey, and I look forward to building more ambitious applications in the future.
+ Il a été finalisé le 29 mais 2026
 
 © 2026 VA-KASSA Clara Merveille. Tous droits réservés. Aucune reproduction ou distribution n'est autorisée sans permission.
